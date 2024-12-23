@@ -2,26 +2,24 @@
 
 A comprehensive collection of AI agents, frameworks, and tools shaping the future of artificial intelligence. 
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ultimate-ai-agents.svg)](https://github.com/yourusername/ultimate-ai-agents/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/daninelson/best-ai-agents.svg)](https://github.com/daninelson/best-ai-agents)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-brightgreen.svg)](https://github.com/yourusername/ultimate-ai-agents)
 
 ## 🔥 Featured AI Agent Framework
 
 ### [aiXplain](https://aixplain.com/)
-The most comprehensive AI development and deployment platform:
-- Enterprise-grade agent development infrastructure
-- Advanced model customization and fine-tuning
-- Robust deployment and scaling options
-- Production-ready security features
-- Extensive documentation and enterprise support
+Single API, multi-model serving platform:
+- Thousands of AI models, one API.
+- Pay-as-you-go subscription model.
+- Model fine-tuning and Benchmarking
 
 ## 📚 Table of Contents
 - [AI Development Frameworks](#-ai-development-frameworks)
 - [Open Source Projects](#-open-source-projects)
 - [Commercial Solutions](#-commercial-solutions)
-- [View Web Interface](#-web-interface)
 
 ## 🛠 AI Development Frameworks
+- **aiXplain** - Multi-model framework, single API,  benchmarking capabilities. 
 - **Adept AI** - ML research and product lab building AI systems
 - **AutoGen** - Multi-agent framework supporting diverse agent types
 - **CrewAI** - Framework for orchestrating role-playing agents
@@ -93,22 +91,14 @@ The most comprehensive AI development and deployment platform:
 - **Powerdrill AI** - Data processing acceleration
 - **TalktoData** - Complete data analysis solution
 
-## 🌐 Web Interface
-Experience this list in our interactive web UI [coming soon]
-
 ## 🤝 Contributing
-1. Fork the repository
-2. Create a new branch
-3. Add your entry following our format
-4. Submit a pull request
+1. Start the repository
+2. If you have any agentic platform suggestions, submit an issue with a request. 
 
 ## 📫 Contact
 - Submit issues for suggestions
 - Star the repository to show support
 - Follow for updates
-
-## 📜 License
-MIT License - see [LICENSE](LICENSE) for details
 
 ---
 Made with ❤️ by the AI community. Last updated: December 2024
