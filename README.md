@@ -4,6 +4,8 @@ A comprehensive collection of AI agents, frameworks, and tools shaping the futur
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-brightgreen.svg)](https://github.com/yourusername/ultimate-ai-agents)
 
+<img src="https://github.com/user-attachments/assets/b3352a16-9faa-4fff-965b-b9af8bb630ad" width="500" height="400">
+
 ## 🔥 Featured AI Agent Framework
 
 ### [aiXplain](https://aixplain.com/)
