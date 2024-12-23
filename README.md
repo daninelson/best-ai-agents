@@ -2,7 +2,6 @@
 
 A comprehensive collection of AI agents, frameworks, and tools shaping the future of artificial intelligence. 
 
-[![GitHub stars](https://img.shields.io/github/stars/daninelson/best-ai-agents.svg)](https://github.com/daninelson/best-ai-agents)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-brightgreen.svg)](https://github.com/yourusername/ultimate-ai-agents)
 
 ## 🔥 Featured AI Agent Framework
