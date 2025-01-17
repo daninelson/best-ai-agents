@@ -1,4 +1,4 @@
-# 🌟 Ultimate AI Agents Directory
+# 🌟 Best AI Agents Directory
 
 A comprehensive collection of AI agents, frameworks, and tools shaping the future of artificial intelligence. 
 
